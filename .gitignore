@@ -1,0 +1,18 @@
+# Folders
+web/
+/android/
+/windows/
+/ios/
+/android/
+/env/
+web/
+android/
+windows/
+ios/
+android/
+build/
+env/
+
+
+# Compiled Object files
+*.txt
